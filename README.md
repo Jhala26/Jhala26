@@ -26,7 +26,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/anshul-sharma-98003a21b" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/thenightwanderer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thenightwanderer" height="30" width="40" /></a>
-<a href=""><img  width="400" align="right"  src =""></a>
+<a href=""><img width ="49" align="center"  src ="https://github.com/Jhala26/Jhala26/blob/master/portfolio.png"></a>
 </p>
 
 <br>
