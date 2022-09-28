@@ -59,12 +59,22 @@
   
   </br>
 
+
+<!--    [![Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhala26&langs_count=8 )](https://github.com/Jhala26/github-readme-stats) -->
   
+   
+    
   <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhala26&theme=radical&langs_count=8"  width="24%"/>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhala26&theme=radical&langs_count=9"  width="24%"/>
+   
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jhala26&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
    
 </p>
+
+<br>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhala26&layout=compact)](https://github.com/Jhala26/github-readme-stats) -->
+
 
 
 
