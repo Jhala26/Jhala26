@@ -65,7 +65,7 @@
    
     
   <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhala26&theme=radical&langs_count=9"  width="24%"/>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhala26&theme=radical&langs_count=9"  width="24%"/>
    
    <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Jhala26&theme=gruvbox&hide_border=true&area=true"  width="70%"/>
    
